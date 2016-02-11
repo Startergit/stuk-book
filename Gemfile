@@ -50,5 +50,7 @@ group :development do
 # instaling simple form gem 
   gem 'simple_form'
 
+  gem 'devise'
+
 end
 
