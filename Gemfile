@@ -47,10 +47,14 @@ group :development do
 
   gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 
-# instaling simple form gem 
+# installed simple form gem 
   gem 'simple_form'
 
+#installed devise
   gem 'devise'
+
+#installed gravatarify
+gem 'gravatarify', '~> 3.0.0'
 
 end
 
